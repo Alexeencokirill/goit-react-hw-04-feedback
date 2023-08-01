@@ -2,7 +2,7 @@ import styled from 'styled-components';
 export const MainTitle = styled.h1`
   text-align: center;
   margin: 40px auto;
-  color: #e12d2d;
+  color: #423131;
   font-size: 50px;
   font-weight: 800;
 `;

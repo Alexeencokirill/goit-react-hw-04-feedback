@@ -4,7 +4,7 @@ export const Title = styled.h3`
   text-align: center;
   margin: 0 auto 0 auto;
   font-size: 30px;
-  color: #000;
+  color: #423131;
 
   text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
     0px -5px 35px rgba(255, 255, 255, 0.3);
@@ -41,8 +41,7 @@ export const PercentText = styled.p`
   width: 500px;
   padding: 10px 20px;
   margin: 0 auto;
-  background-color: #ebc2c2c5;
-  box-shadow: inset -1px 1px 25px 0px rgba(222, 31, 222, 1);
+  background-color: #aa8d8dc6;
 `;
 export const Icon = styled(BsFillEmojiSmileFill)`
   margin-right: 20px;

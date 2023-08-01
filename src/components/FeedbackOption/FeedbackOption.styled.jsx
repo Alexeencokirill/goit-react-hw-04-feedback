@@ -7,13 +7,12 @@ import {
 
 export const List = styled.ul`
   display: flex;
-  /* justify-content: space-between; */
   list-style: none;
-  padding: 40px;
+  padding: 35px;
   margin: 0 auto 40px auto;
   width: 600px;
-  background-color: #dfd7d7;
-  box-shadow: inset -1px 1px 25px 0px rgba(222, 31, 222, 1);
+  background-color: #ebe7e7fc;
+  box-shadow: inset -1px 1px 25px 0px #838183;
 `;
 export const GoodIcon = styled(BsFillEmojiSmileFill)`
   fill: rgba(0, 128, 75, 0.6);
