@@ -6,6 +6,7 @@ import { useState } from 'react';
 
 export function App() {
   const options = ['Good', 'Neutral', 'Bad'];
+  // const options = Object.keys({good, neutral, bad})
 
   const [good, setGood] = useState(0);
   const [neutral, setNeutral] = useState(0);
